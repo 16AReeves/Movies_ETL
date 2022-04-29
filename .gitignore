@@ -7,7 +7,7 @@ keywords.csv
 links.csv
 links_small.csv
 ratings_small.csv
-
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
